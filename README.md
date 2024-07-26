@@ -1,0 +1,1 @@
+This exercise consists of a system to register the teachers and students attending an seminary, the challenge here was to create an array list to keep the data for the names and ages for the students, and in the end, print in the terminal all that info. The use of the scanner and the toString method were of much importance to make this practice exercise work.
